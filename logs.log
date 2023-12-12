@@ -1,0 +1,105 @@
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as 𝑵𝒈𝒉𝒂𝒂𝒂𝒂𝒂𝒂𝒂𝒂#2529"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autoleave"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as 𝑵𝒈𝒉𝒂𝒂𝒂𝒂𝒂𝒂𝒂𝒂#2529"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | A wild player has been created in Play With Mouse"}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | Track has been started playing [\u001b[34mCHÚNG TA CHỈ GIỐNG TÌNH YÊU - HOÀNG GREEN | OFFICIAL MUSIC VIDEO | anh nhốt mình trong căn phòng...\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | Successfully paused the player"}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | Successfully resumed the player"}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | Track has been started playing [\u001b[34mKiếp Má Hồng Remix - TLong x Mee Remix | trời sinh ra kiếp má hồng 12 bến nước giữa dòng remix\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | A wild player has been destroyed in Play With Mouse"}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | A wild player has been created in Play With Mouse"}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | Track has been started playing [\u001b[34mNHẠC NGHE ĐI TẮM by GUANG VOL.3 - MIXSET HOUSE LAK & DEEP HOUSE 2023\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 1095636394539487313 | Track has been started playing [\u001b[34m徐梦圆 - China-P ♪\u001b[39m]"}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
